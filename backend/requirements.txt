@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+numpy
+opencv-python
+sounddevice
+python-multipart
+websockets
+python-multipart
+websockets
